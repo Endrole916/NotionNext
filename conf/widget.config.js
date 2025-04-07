@@ -37,11 +37,11 @@ module.exports = {
   MUSIC_PLAYER_AUDIO_LIST: [
     // 示例音乐列表。除了以下配置外，还可配置歌词，具体配置项看此文档 https://aplayer.js.org/#/zh-Hans/
     {
-      name: '想い出は遠くの日々',
+      name: 'ぼくらの性',
       artist: 'Falcom Sound Team jdk',
-      url: 'https://music.163.com/#/song?id=528284&userid=496816184',
+      url: 'https://music.163.com/#/song?id=1316376017&userid=496816184',
       cover:
-        'http://p2.music.126.net/8YoHguW4VM84BbjHUgpipw==/109951168282411219.jpg?param=130y130'
+        'http://p1.music.126.net/G9lpFn-H6RVxXBq08yR1jw==/109951163599186837.jpg?param=130y130'
     }
    
   ],
